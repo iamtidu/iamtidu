@@ -71,6 +71,31 @@
   </tr>
 </table>
 
+<h3 align="left">Machine Learning</h3>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Project Name</th>
+    <th>URL</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Real Time Ats Score Checker Using Gemini</td>
+    <td><a href="https://github.com/iamtidu/Ats-Score-Checker-Using-Gemini" target="_blank">Link</a></td>
+    <td>Use Gemini to analysis resume , check ats score and chat with bot</td>
+  </tr>
+  <tr>
+    <td>Movie recommender system</td>
+    <td><a href="https://github.com/iamtidu/Movie-Recommender-System" target="_blank">Link</a></td>
+    <td>Show similar 5 movies and it's banner</td>
+  </tr>
+  <tr>
+    <td>Stock Price Analysis</td>
+    <td><a href="https://github.com/iamtidu/Stock-Price" target="_blank">Link</a></td>
+    <td>Predict the price of the stock using previous data </td>
+  </tr>
+</table>
+
 <h2 align="left">Notes :</h2>
 
 <table border="1" cellspacing="0" cellpadding="5">
