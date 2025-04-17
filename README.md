@@ -1,4 +1,4 @@
-<body style="background: black; color: white;">
+
 <h1 align="center">Hi 👋, I'm UDIT KUMAR</h1>
 <h3 align="center">Software Engineer</h3>
 
@@ -34,7 +34,7 @@
 
 <h3 align="left">Web Development</h3>
 
-<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
+<table  border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -64,7 +64,7 @@
    <tr>
     <td>Simple Quiz Website </td>
     <td><a href="https://github.com/iamtidu/Quiz-website" target="_blank">Link</a></td>
-     <td>Qize website first fill name and email, pass the test and get certificate</td>
+     <td>Quiz website first fill name and email, pass the test and get certificate</td>
   </tr>
   <tr>
     <td>Scientific calculator</td>
@@ -80,7 +80,7 @@
 
 <h3 align="left">Machine Learning</h3>
 
-<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
+<table  border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -110,7 +110,7 @@
 
 <h3 align="left">Data Visulization</h3>
 
-<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
+<table  border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -135,7 +135,7 @@
 
 <h2 align="left">Notes :</h2>
 
-<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
+<table  border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Name</th>
     <th>URL</th>
@@ -158,6 +158,6 @@
   </tr>
 </table>
 
-</body> 
+
 
 
