@@ -32,33 +32,66 @@
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
-    <th>Link</th>
+    <th>URL</th>
+    <th>Description</th>
   </tr>
   <tr>
     <td>WebD Studio (SaaS)</td>
     <td><a href="https://webdstudio.vercel.app/" target="_blank">Link</a></td>
+    <td>This Is SaaS for make Div and generated code</td>
   </tr>
   <tr>
     <td>Spotify</td>
     <td><a href="https://github.com/iamtidu/Spotify" target="_blank">Link</a></td>
+    <td>Mern Stack Project</td>
   </tr>
   <tr>
     <td>Ai Powered Job Matching Platform</td>
     <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
+    <td>Mern Stack Project with Ai integrated </td>
   </tr>
   <tr>
     <td>Gemini</td>
     <td><a href="https://github.com/iamtidu/Gemini" target="_blank">Link</a></td>
+     <td>Chatbot which give image and Description</td>
   </tr>
   <tr>
     <td>Scientific calculator</td>
     <td><a href="https://github.com/iamtidu/scientific-calc" target="_blank">Link</a></td> 
+     <td>This is simple Scientific calculator using Html Css And JavaScript</td>
   </tr>
   <tr>
     <td>Food Delivery </td>
     <td><a href="https://github.com/iamtidu/e-commerce" target="_blank">Link</a></td>
+     <td>Food Delivery website develop using Html CSS and JavaScript</td>
   </tr>
 </table>
+
+<h2 align="left">Notes :</h2>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Name</th>
+    <th>URl</th>
+  </tr>
+  <tr>
+    <td>Backend Using Node Js</td>
+    <td><a href="https://github.com/iamtidu/backend-notes-using-node.js" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>Electron Js</td>
+    <td><a href="https://github.com/iamtidu/Electron-notes" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>ANDRIOD</td>
+    <td><a href="https://github.com/iamtidu/Android-notes-with--java" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>Next js</td>
+    <td><a href="https://github.com/iamtidu/Next.js-Notes" target="_blank">Link</a></td>
+  </tr>
+</table>
+
 
 
 
