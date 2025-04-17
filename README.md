@@ -46,6 +46,20 @@
     <td>Ai Powered Job Matching Platform</td>
     <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
   </tr>
+  <tr>
+    <td>Gemini</td>
+    <td><a href="https://github.com/iamtidu/Gemini" target="_blank">Link</a></td>
+    https://github.com/iamtidu/Gemini
+  </tr>
+  <tr>
+    <td>Scientific calculator</td>
+    <td><a href="https://github.com/iamtidu/scientific-calc" target="_blank">Link</a></td>
+    
+  </tr>
+  <tr>
+    <td>Food Delivery </td>
+    <td><a href="https://github.com/iamtidu/e-commerce" target="_blank">Link</a></td>
+  </tr>
 </table>
 
 
