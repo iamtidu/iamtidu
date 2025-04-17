@@ -33,16 +33,17 @@
   </tr>
   <tr>
     <td>WebD Studio (SaaS)</td>
-    <td>[Link](https://webdstudio.vercel.app/)</td>
+    <td><a href="https://webdstudio.vercel.app/" target="_blank">Link</a></td>
   </tr>
   <tr>
     <td>Spotify</td>
-    <td>[Link](https://github.com/iamtidu/Spotify)</td>
+    <td><a href="https://github.com/iamtidu/Spotify" target="_blank">Link</a></td>
   </tr>
   <tr>
     <td>Ai Powered Job Matching Platform</td>
-    <td>[Link](https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file)</td>
+    <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
   </tr>
 </table>
+
 
 
