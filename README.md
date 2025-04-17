@@ -61,6 +61,11 @@
     <td><a href="https://github.com/iamtidu/Gemini" target="_blank">Link</a></td>
      <td>Chatbot which give image and Description</td>
   </tr>
+   <tr>
+    <td>Simple Quiz Website </td>
+    <td><a href="https://github.com/iamtidu/Quiz-website" target="_blank">Link</a></td>
+     <td>Qize website first fill name and email, pass the test and get certificate</td>
+  </tr>
   <tr>
     <td>Scientific calculator</td>
     <td><a href="https://github.com/iamtidu/scientific-calc" target="_blank">Link</a></td> 
