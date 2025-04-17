@@ -28,23 +28,29 @@
 
 <div id="dev"></div>
 
+<style>
+  #dev {
+    background-color: blue;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-family: Arial, sans-serif;
+  }
+  #dev div {
+    margin: 5px 0;
+  }
+</style>
+
 <script>
   const skills = ["HTML", "CSS", "JavaScript", "ReactJs"];
   const container = document.getElementById("dev");
-
-  container.style.backgroundColor = "blue";
-  container.style.borderRadius = "5px";
-  container.style.padding = "10px";
-  container.style.color = "white";
-  container.style.fontFamily = "Arial, sans-serif";
-
   skills.forEach(skill => {
-    const skillDiv = document.createElement("div");
-    skillDiv.textContent = skill;
-    skillDiv.style.margin = "5px 0";
-    container.appendChild(skillDiv);
+    const div = document.createElement("div");
+    div.textContent = skill;
+    container.appendChild(div);
   });
 </script>
+
 
 <h2 align="left">Projects :</h2>
 
