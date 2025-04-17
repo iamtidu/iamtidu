@@ -44,16 +44,17 @@
     <td><a href="https://webdstudio.vercel.app/" target="_blank">Link</a></td>
     <td>This Is SaaS for make Div and generated code , Choose colors from a variety of color palettes or create your own color palettes</td>
   </tr>
+   <tr>
+    <td>Ai Powered Job Matching Platform</td>
+    <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
+    <td>Mern Stack Project with Ai integrated </td>
+  </tr>
   <tr>
     <td>Spotify</td>
     <td><a href="https://github.com/iamtidu/Spotify" target="_blank">Link</a></td>
     <td>Mern Stack Project</td>
   </tr>
-  <tr>
-    <td>Ai Powered Job Matching Platform</td>
-    <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
-    <td>Mern Stack Project with Ai integrated </td>
-  </tr>
+ 
   <tr>
     <td>Gemini</td>
     <td><a href="https://github.com/iamtidu/Gemini" target="_blank">Link</a></td>
