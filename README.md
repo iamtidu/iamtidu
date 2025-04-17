@@ -34,7 +34,7 @@
 
 <h3 align="left">Web Development</h3>
 
-<table border="1" cellspacing="0" cellpadding="5">
+<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -75,7 +75,7 @@
 
 <h3 align="left">Machine Learning</h3>
 
-<table border="1" cellspacing="0" cellpadding="5">
+<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -105,7 +105,7 @@
 
 <h3 align="left">Data Visulization</h3>
 
-<table border="1" cellspacing="0" cellpadding="5">
+<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Project Name</th>
     <th>URL</th>
@@ -130,7 +130,7 @@
 
 <h2 align="left">Notes :</h2>
 
-<table border="1" cellspacing="0" cellpadding="5">
+<table style="background: black; color: white;" border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Name</th>
     <th>URL</th>
