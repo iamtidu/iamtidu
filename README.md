@@ -83,7 +83,7 @@
   <tr>
     <td>Real Time Ats Score Checker Using Gemini</td>
     <td><a href="https://github.com/iamtidu/Ats-Score-Checker-Using-Gemini" target="_blank">Link</a></td>
-    <td>Use Gemini to analysis resume , check ats score and chat with bot</td>
+    <td>Use Gemini to analyze Resume (Summary, Improvements, Missing Keywords), check ats score and chat with bot</td>
   </tr>
   <tr>
     <td>Movie recommender system</td>
