@@ -90,6 +90,11 @@
     <td>Show similar 5 movies and it's banner</td>
   </tr>
   <tr>
+    <td>Emotion Detection from Text</td>
+    <td><a href="https://github.com/iamtidu/Emotion-Detection-from-Text" target="_blank">Link</a></td>
+    <td>Write the Text, Sentence and it detect the Emotiom (Mode)</td>
+  </tr>
+  <tr>
     <td>Stock Price Analysis</td>
     <td><a href="https://github.com/iamtidu/Stock-Price" target="_blank">Link</a></td>
     <td>Predict the price of the stock using previous data </td>
