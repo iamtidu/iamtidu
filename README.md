@@ -102,12 +102,37 @@
   </tr>
 </table>
 
+<h3 align="left">Data Visulization</h3>
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Project Name</th>
+    <th>URL</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Sales</td>
+    <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/sales">Link</a></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>Covid-19 </td>
+    <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/Covid-19">Link</a></td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>E-Commerce</td>
+    <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/E-commerce">Link</a></td>
+    <td>---</td>
+  </tr>
+</table>
+
 <h2 align="left">Notes :</h2>
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Name</th>
-    <th>URl</th>
+    <th>URL</th>
   </tr>
   <tr>
     <td>Backend Using Node Js</td>
