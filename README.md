@@ -28,24 +28,20 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
   <tr>
-    <th>Name</th>
-    <th>Age</th>
-    <th>Occupation</th>
+    <th>Project Name</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Alice</td>
-    <td>30</td>
-    <td>Engineer</td>
+    <td>WebD Studio (SaaS)</td>
+    <td>[Link](https://webdstudio.vercel.app/)</td>
   </tr>
   <tr>
-    <td>Bob</td>
-    <td>25</td>
-    <td>Designer</td>
+    <td>Spotify</td>
+    <td>[Link](https://github.com/iamtidu/Spotify)</td>
   </tr>
   <tr>
-    <td>Charlie</td>
-    <td>35</td>
-    <td>Teacher</td>
+    <td>Ai Powered Job Matching Platform</td>
+    <td>[Link](https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file)</td>
   </tr>
 </table>
 
