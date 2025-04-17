@@ -42,7 +42,7 @@
   <tr>
     <td>WebD Studio (SaaS)</td>
     <td><a href="https://webdstudio.vercel.app/" target="_blank">Link</a></td>
-    <td>This Is SaaS for make Div and generated code</td>
+    <td>This Is SaaS for make Div and generated code , Choose colors from a variety of color palettes or create your own color palettes</td>
   </tr>
   <tr>
     <td>Spotify</td>
