@@ -160,5 +160,5 @@
 </table>
 
 
-- Git - https://education.github.com/git-cheat-sheet-education.pdf
+- Git - [Link](https://education.github.com/git-cheat-sheet-education.pdf)
 
