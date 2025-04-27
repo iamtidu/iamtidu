@@ -51,6 +51,12 @@
     <td><a href="https://github.com/iamtidu/Ai-Powered-Job-Matching-Platform?tab=readme-ov-file" target="_blank">Link</a></td>
     <td>Mern Stack Project with Ai integrated </td>
   </tr>
+   <tr>
+    <td>College Management System using php</td>
+    <td><a href="https://github.com/iamtidu/College-Management-System-using-php" target="_blank">Link</a></td>
+    <td>CMS using php html css javascript and Mysql </td>
+  </tr>
+  
   <tr>
     <td>Spotify</td>
     <td><a href="https://github.com/iamtidu/Spotify" target="_blank">Link</a></td>
