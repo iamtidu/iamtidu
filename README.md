@@ -137,6 +137,11 @@
     <td>E-Commerce</td>
     <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/E-commerce">Link</a></td>
     <td>---</td>
+  </tr
+    <tr>
+    <td>Indian Tourism</td>
+    <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/Indian%20Tourism">Link</a></td>
+    <td>---</td>
   </tr>
 </table>
 
