@@ -132,14 +132,15 @@
     <td>E-Commerce</td>
     <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/E-commerce">Link</a></td>
     <td>---</td>
-  </tr
-    <tr>
+  </tr>
+  <tr>
     <td>Indian Tourism</td>
     <td><a href="https://github.com/iamtidu/Data-Visualization-Using-Tableau/tree/main/Indian%20Tourism">Link</a></td>
     <td>---</td>
   </tr>
 </table>
-</br>
+
+
 <h2 align="left">Notes :</h2>
 
 <table  border="1" cellspacing="0" cellpadding="5">
