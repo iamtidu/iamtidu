@@ -51,6 +51,12 @@
     <td><a href="https://github.com/iamtidu/College-Management-System-using-php" target="_blank">Link</a></td>
     <td>CMS using php html css javascript and Mysql </td>
   </tr>
+  <tr>
+    <td>WordPress Plugin</td>
+    <td><a href="https://github.com/iamtidu/WordPress-Plugin" target="_blank">Link</a></td>
+    <td>Built 10+ Plugin using PHP and jQuery for enhanced WordPress and WooCommerce functionality.</td>
+  </tr>
+  
   
   <tr>
     <td>Spotify</td>
