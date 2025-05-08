@@ -179,4 +179,4 @@
 
 - Git - [Link](https://education.github.com/git-cheat-sheet-education.pdf)
 
-!!Bingo!!
+!yes Bingo!
